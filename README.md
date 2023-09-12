@@ -5,7 +5,7 @@ NTNU EduLRS LATIA112-1
 ###### 系級：電機工程學系 113級
 
 ## 目錄
-* [作業連結區]
+* [作業連結區](https://github.com/princemax1201/LATIA112-1/blob/main/README.md#%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90%E5%8D%80)
   * [作業一]
   * [作業二]
   * [作業三]
