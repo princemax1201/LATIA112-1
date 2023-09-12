@@ -9,3 +9,4 @@ NTNU EduLRS LATIA112-1
   * [作業一]
   * [作業二]
   * [作業三]
+  * Item 2a
